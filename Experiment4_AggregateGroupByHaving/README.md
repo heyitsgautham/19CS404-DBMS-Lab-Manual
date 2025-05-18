@@ -1,5 +1,5 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-# HIRUTHIK SUDHAKAR 212223240054
+# GAUTHAM KRISHNA S 212223240036
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
