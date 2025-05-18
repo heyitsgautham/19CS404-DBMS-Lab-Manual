@@ -33,8 +33,8 @@ Design a database for patient management, appointments, medical records, and bil
    - How you modeled prerequisites or billing.
 
 # ER Diagram Submission 
-# Name: HIRUTHIK SUDHAKAR
-# Reg.no:212223240054
+# Name: GAUTHAM KRISHNA S
+# Reg.no:212223240036
 # Scenario Chosen:
 HOSPITAL
 ## ER Diagram:
