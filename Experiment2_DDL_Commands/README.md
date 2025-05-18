@@ -1,5 +1,5 @@
 # Experiment 2: DDL Commands
-# HIRUTHIK SUDHAKAR 212223240054
+# GAUTHAM KRISHNA S 212223240036
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
