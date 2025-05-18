@@ -1,5 +1,5 @@
 # Experiment 6: Joins
-# HIRUTHIK SUDHAKAR 212223240054
+# GAUTHAM KRISHNA S 212223240036
 ## AIM
 To study and implement different types of joins.
 
