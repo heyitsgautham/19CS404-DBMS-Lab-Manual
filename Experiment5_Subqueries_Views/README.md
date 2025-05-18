@@ -1,5 +1,5 @@
 # Experiment 5: Subqueries and Views
-# HIRUTHIK SUDHAKAR 212223240054
+# GAUTHAM KRISHNA S 212223240036
 ## AIM
 To study and implement subqueries and views.
 
